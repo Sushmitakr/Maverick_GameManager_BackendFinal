@@ -1,0 +1,5 @@
+/home/sushmita/spring_workspace/GameManager/src/test/java/com/stackroute/gameManager/services/GameServiceMongoImplTest.java
+/home/sushmita/spring_workspace/GameManager/src/test/java/com/stackroute/gameManager/GameManagerApplicationTests.java
+/home/sushmita/spring_workspace/GameManager/src/test/java/com/stackroute/gameManager/repositories/GameRepositoriesTest.java
+/home/sushmita/spring_workspace/GameManager/src/test/java/com/stackroute/gameManager/kafka/KafkaTest.java
+/home/sushmita/spring_workspace/GameManager/src/test/java/com/stackroute/gameManager/controller/GameControllerTest.java
